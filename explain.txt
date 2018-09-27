@@ -1,0 +1,8 @@
+1.主要引入三个文件 
+als_demo.css
+jquery-2.1.1.min.js   --jquery 核心库 1.8   1.9都可以
+jquery.als-1.7.min.js
+  
+
+为了不影响项目整体风格可以 去掉als_demo.css的#content以上的样式和 CSSreset.min.css和default.css
+但是CSSreset.min.css的第一行样式 很重要，一般选择ul 的样式
